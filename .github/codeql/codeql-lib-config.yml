@@ -2,9 +2,9 @@ name: "My CodeQL config"
 
 disable-default-queries: false
 
-paths:
+#paths:
 #  - src
-  - restaurant/lib
+#  - restaurant/lib
 #paths-ignore:  
   #- src/node_modules
   #- '**/*.test.js'
