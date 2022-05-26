@@ -5,6 +5,6 @@ disable-default-queries: false
 paths:
 #  - src
   - restaurant/lib
-paths-ignore:  
+#paths-ignore:  
   #- src/node_modules
   #- '**/*.test.js'
