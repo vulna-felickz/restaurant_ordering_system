@@ -11,7 +11,8 @@ disable-default-queries: false
 #paths:
 #  - src
 paths-ignore:
-  - restaurant/lib
+  - restaurant/lib  
+  - restaurant/lib/python3.6/site-packages/django/contrib/admin/static/admin/js/admin/DateTimeShortcuts.js
   #- src/node_modules
   #- '**/*.test.js'
 
